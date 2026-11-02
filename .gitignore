@@ -1,0 +1,9 @@
+# files too big for GitHub
+data/raw/sf_parcels.geojson
+data/raw/sf_parcels_geojson.zip
+# clutter
+_to_delete/
+course-materials/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/oak_parcels.geojson
